@@ -1,3 +1,16 @@
+h1{
+  height:auto;
+  width:auto;
+  align-content: center;
+  color:white;
+  background-color:green;
+}
+
+main{
+    width: 900px;
+    height: 1200px;
+}
+
 nav{
     height: 40px;
     display: flex;
@@ -14,12 +27,5 @@ nav > a{
 }
 
 nav > a:hover{
-    background-color: #22aaff;
-}
-h1{
-  height:auto;
-  width:auto;
-  align-content: center;
-  color:white;
-  background-color:green;
+    background-color: black;
 }
