@@ -1,19 +1,26 @@
-h1{
+span{
   height:40px;
-  width:300px;
+  font-size: 32px;
   align-content: left;
-  color:white;
-  background-color:green;
+}
 
+#title{
+    color:white;
+    background-color:green;
+}
+
+#titleImg{
+    height: 55px;
+    width: 80px;
 }
 
 body{
     margin: center;
-    border:
+    border: 10px;
 }
 
 nav{
-    height: 40px;
+    height: 30px;
     display: flex;
     width:auto;
     background-color: #228B22;
@@ -24,7 +31,7 @@ nav > a{
     text-decoration: none;
     color: gold;
     font-weight: 700;
-    font-size: 2em;
+    font-size: 1.5em;
 }
 
 nav > a:hover{
