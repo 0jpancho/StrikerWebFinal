@@ -14,14 +14,26 @@ span{
     width: 80px;
 }
 
+#otherBody{
+    background: black;
+}
+
 #mainBody{
     width: 80%;
     margin: 0 auto;
-    border: 4px solid green;
+    border: 15px solid green;
+    background-color: white;
 }
 .space{
-    height: 200px;
+    height: 30px;
 }
+
+#team{
+    width:400px;
+    height:300px;
+    align-content: center;
+}
+
 #bottom{
     width:80%;
 }
